@@ -1,5 +1,6 @@
 # Slime-Simulation
-Project created with Unity 2020.3
+
+Project based on this github project of Sebastian Lague: https://github.com/SebLague/Slime-Simulation
 
 Video here: https://www.youtube.com/watch?v=X-iSQQgOd1A
 
